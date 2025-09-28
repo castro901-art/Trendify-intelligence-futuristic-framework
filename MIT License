@@ -1,0 +1,29 @@
+
+---
+
+# 📌 2. `tiff-ai-web`  
+
+```markdown
+# Tiff AI Web 💻  
+
+The **React-based web interface** for Tiff AI.  
+Provides both customer-facing shopping assistant and vendor dashboards.  
+
+## ✨ Features  
+- 🛒 Smart AI-powered shopping assistant  
+- 📊 Vendor dashboard with sales insights  
+- 🌍 Localization for African markets  
+- 🎨 Beautiful UI built with TailwindCSS + Shadcn  
+
+## 🛠 Tech Stack  
+- React, TailwindCSS, Shadcn UI  
+- Node.js backend (Tiff AI Core)  
+- Firebase / AWS for hosting  
+
+## 🚀 Getting Started  
+
+```bash
+git clone https://github.com/castro901-art/tiff-ai-web.git
+cd tiff-ai-web
+npm install
+npm run dev
