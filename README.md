@@ -1,0 +1,1 @@
+# Trendify-intelligence-futuristic-framework
