@@ -1,0 +1,23 @@
+# Tiff AI Mobile 📱  
+
+Cross-platform mobile app for Tiff AI.  
+Gives users and vendors access to AI-powered commerce tools on the go.  
+
+## ✨ Features  
+- 🛒 AI shopping assistant on mobile  
+- 🔔 Push notifications for deals  
+- 📊 Vendor insights dashboard  
+- 🌍 Offline-friendly (low data mode)  
+
+## 🛠 Tech Stack  
+- React Native / Flutter  
+- Firebase for notifications  
+- Backend: [Tiff AI Core](https://github.com/castro901-art/tiff-ai-core)  
+
+## 🚀 Getting Started  
+
+```bash
+git clone https://github.com/castro901-art/tiff-ai-mobile.git
+npm install
+npm run android   # for Android
+npm run ios       # for iOS
