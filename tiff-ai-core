@@ -1,0 +1,28 @@
+# Tiff AI Core 🚀  
+
+The **core engine of Tiff AI**, powering intelligent e-commerce across Africa.  
+It handles natural language processing, recommendations, vendor insights, and real-time search.  
+
+## ✨ Features  
+- 🧠 AI-powered product recommendations  
+- 💬 Natural Language Processing (multi-language support, tailored for Africa)  
+- 🔍 Smart real-time search  
+- 📊 Vendor & customer analytics  
+
+## 🛠 Tech Stack  
+- Python, Node.js  
+- TensorFlow / PyTorch  
+- OpenAI API  
+- MongoDB / MySQL  
+
+## 🚀 Getting Started  
+
+```bash
+# Clone repo
+git clone https://github.com/castro901-art/tiff-ai-core.git
+
+# Install dependencies
+npm install
+
+# Start server
+npm run dev
